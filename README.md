@@ -116,15 +116,16 @@ These findings suggest that **market sentiment can act as a useful signal** in s
 ## Project Structure
 
 ```
-📁 sentiment-trader-analysis/
-├── historical_data.csv
-├── fear_greed_index.csv
-├── sentiment_analysis.ipynb
-├── plots/
-│   ├── pnl_boxplot.png
-│   ├── winrate_bar.png
-│   ├── volume_bar.png
-│   └── trade_side_stack.png
+📁 sentiment-trader-analysis/  
+├── Task Report.pdf  
+├── historical_data.csv  
+├── fear_greed_index.csv  
+├── sentiment_analysis.ipynb  
+├── plots/  
+│   ├── pnl_boxplot.png  
+│   ├── winrate_bar.png  
+│   ├── volume_bar.png  
+│   └── trade_side_stack.png  
 ├── README.md
 ```
 
