@@ -134,7 +134,7 @@ These findings suggest that **market sentiment can act as a useful signal** in s
 
 **Mayana Mohammed Fazil Khan**  
 Python Developer | Data Science Enthusiast  
-GitHub: [mayana-fazil-khan](https://github.com/mayana-fazil-khan)
+GitHub: [mayana-fazil-khan](https://github.com/MayanaFazil)
 
 ---
 
