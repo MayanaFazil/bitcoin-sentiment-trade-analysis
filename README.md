@@ -142,3 +142,14 @@ GitHub: [mayana-fazil-khan](https://github.com/MayanaFazil)
 
 Submitted as part of the selection process for the **Data Science Internship** at **Primetrade.ai**, dated **27 July 2025**.
 
+Due to large size of datasets, historical_data.csv cannot be uploaded but the link is provided below for 2 datasets. If you want you can access them.
+
+Historical Data 
+
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+Fear Greed Index link:
+
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
+
